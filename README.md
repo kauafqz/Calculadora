@@ -31,7 +31,3 @@ Calculadora/
 ## Objetivo
 
 Este projeto faz parte da minha jornada de aprendizado em **Desenvolvimento Web**, colocando em prática conceitos básicos de **HTML, CSS e JavaScript**.
-
----
-
-Desenvolvido por **Kauã Queiroz**.
